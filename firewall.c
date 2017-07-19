@@ -1,4 +1,4 @@
-Please note that certain snippet of following code is taken from
+/*Please note that certain snippet of following code is taken from
 the link provided in question: http://www.linuxjournal.com/article/7184
 */
 
